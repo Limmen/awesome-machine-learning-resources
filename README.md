@@ -32,8 +32,8 @@
 </p>
 
 <h3 align="center"><b>
-  Language: 
-  [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] 
+  Language:
+  [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>]
   [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
 </b></h3>
 
@@ -48,7 +48,7 @@
 **Note:**
 - ⭐ **Please leave a <font color='orange'>STAR</font> if you like this project!** ⭐
 -  **Contributing:** If you find any <font color='red'>incorrect</font> / <font color='red'>inappropriate</font> / <font color='red'>outdated</font> content, please kindly consider opening an issue or a PR. We would greatly appreciate your contribution to this list!
-- **Mark:** ⚠️ indicates **`inactive`**, i.e., the corresponding list has stopped updating (for 12+ months), but can still be a good reference for starters. 
+- **Mark:** ⚠️ indicates **`inactive`**, i.e., the corresponding list has stopped updating (for 12+ months), but can still be a good reference for starters.
 
 <h3>
 <font color='red'>What's new: </font>
@@ -63,9 +63,9 @@
 - [12/2021] Add section [Paradigm](#machine-learning-paradigm) - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction).
 - <details> <summary>More</summary>
     <LI> [12/2021] Awesome Awesome Machine Learning first commit! <br>
-</details>    
+</details>
 
-**Check out [Zhining](https://github.com/ZhiningLiu1998)'s other open-source projects!**  
+**Check out [Zhining](https://github.com/ZhiningLiu1998)'s other open-source projects!**
 <table style="font-size:15px;">
   <tr>
     <!-- <td align="center"><a href="http://zhiningliu.com"><img src="https://avatars.githubusercontent.com/u/26108487?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhining Liu</b></sub></a></td> -->
@@ -168,7 +168,7 @@ General Machine Learning
 
 - *Practice*
   - [**[List, Library] Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
-    - A curated list of awesome machine learning frameworks, libraries and software (by language). 
+    - A curated list of awesome machine learning frameworks, libraries and software (by language).
   - [**[Library] scikit-learn**](https://github.com/scikit-learn/scikit-learn) ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
     - scikit-learn: machine learning in Python.
 
@@ -241,7 +241,7 @@ Machine Learning Paradigm
   - [**[List] Awesome Visual Representation Learning with Transformers**](https://github.com/alohays/awesome-visual-representation-learning-with-transformers) ![](https://img.shields.io/github/stars/alohays/awesome-visual-representation-learning-with-transformers?style=social)
     - Awesome Transformers (self-attention) in Computer Vision.
   - [**[List] Awesome Deep Graph Representation Learning**](https://github.com/zlpure/awesome-graph-representation-learning) ![](https://img.shields.io/github/stars/zlpure/awesome-graph-representation-learning?style=social)
-    - A curated list for awesome deep graph representation learning resources. 
+    - A curated list for awesome deep graph representation learning resources.
   - [**[List] awesome-network-embedding**](https://github.com/chihming/awesome-network-embedding) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/chihming/awesome-network-embedding?style=social)
     - Network representation learning, graph embedding, knowledge embedding.
   - [**[List] Must-read papers on NRL/NE.**](https://github.com/thunlp/NRLPapers) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/thunlp/NRLPapers?style=social)
@@ -267,7 +267,7 @@ Machine Learning Paradigm
   - [**[List] Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) ![](https://img.shields.io/github/stars/aikorea/awesome-rl?style=social)
     - A curated list of resources dedicated to reinforcement learning.
   - [**[List] Awesome DL & RL Papers and Other Resources**](https://github.com/endymecy/awesome-deeplearning-resources) ![](https://img.shields.io/github/stars/endymecy/awesome-deeplearning-resources?style=social)
-    - A list of recent papers regarding deep learning and deep reinforcement learning. 
+    - A list of recent papers regarding deep learning and deep reinforcement learning.
   - [**[List] Awesome Deep RL**](https://github.com/kengz/awesome-deep-rl) ![](https://img.shields.io/github/stars/kengz/awesome-deep-rl?style=social)
     - A curated list of awesome Deep Reinforcement Learning resources.
   - [**[List] Awesome Reinforcement Learning (CH/中文)**](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/wwxFromTju/awesome-reinforcement-learning-zh?style=social)
@@ -281,12 +281,13 @@ Machine Learning Paradigm
   - [**[List] Awesome Game AI**](https://github.com/datamllab/awesome-game-ai) ![](https://img.shields.io/github/stars/datamllab/awesome-game-ai?style=social)
     - A curated, but incomplete, list of game AI resources on multi-agent learning.
   - [**[List] Awesome RL Competitions**](https://github.com/seungjaeryanlee/awesome-rl-competitions) ![](https://img.shields.io/github/stars/seungjaeryanlee/awesome-rl-competitions?style=social)
-    - Collection of competitions for Reinforcement Learning. 
+    - Collection of competitions for Reinforcement Learning.
   - [**[List] Awesome Robotics**](https://github.com/kiloreux/awesome-robotics) ![](https://img.shields.io/github/stars/kiloreux/awesome-robotics?style=social)
     - This is a list of various books, courses and other resources for robotics
   - [**[List] Awesome RL for Natural Language Processing (NLP)**](https://github.com/adityathakker/awesome-rl-nlp) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/adityathakker/awesome-rl-nlp?style=social)
     - Curated List of Reinforcement Learning Resources for Natural Language Processing.
-
+  - [**[List] Awesome RL for Cybersecurity**](https://github.com/Limmen/awesome-rl-for-cybersecurity) ![](https://img.shields.io/github/stars/limmen/awesome-rl-for-cybersecurity?style=social)
+    - Curated list of resources dedicated to reinforcement learning applied to cyber security.
 - *Practice*
   - [**[Library] gym**](https://github.com/openai/gym) ![](https://img.shields.io/github/stars/openai/gym?style=social)
       - A toolkit for developing and comparing reinforcement learning algorithms.
@@ -363,7 +364,7 @@ Machine Learning Paradigm
 
 - *Sub-topics*
   - [**[List] Awesome Multi-Task Learning (for vision)**](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning) ![](https://img.shields.io/github/stars/SimonVandenhende/Awesome-Multi-Task-Learning?style=social)
-    - A list of papers on multi-task learning for *computer vision*. 
+    - A list of papers on multi-task learning for *computer vision*.
 
 - *Practice*
   - [**[Code Collection] Multi-Task-Learning-PyTorch**](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch) ![](https://img.shields.io/github/stars/SimonVandenhende/Multi-Task-Learning-PyTorch?style=social)
@@ -377,7 +378,7 @@ Machine Learning Paradigm
   - [**[List] Awesome Long-Tailed Learning**](https://github.com/Stomach-ache/awesome-long-tailed-learning) ![](https://img.shields.io/github/stars/Stomach-ache/awesome-long-tailed-learning?style=social)
     - Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
   - [**[List] Awesome Long-Tailed Learning\***](https://github.com/Vanint/Awesome-LongTailed-Learning) ![](https://img.shields.io/github/stars/Vanint/Awesome-LongTailed-Learning?style=social)
-    - A curated list of awesome deep long-tailed learning resources. 
+    - A curated list of awesome deep long-tailed learning resources.
 
 - *Sub-topics*
   - [**[List] Awesome Long-tailed Recognition**](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition) ![](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition?style=social)
@@ -561,7 +562,7 @@ Machine Learning Paradigm
   - [**[List] Awesome Federated Learning**](https://github.com/weimingwill/awesome-federated-learning) ![](https://img.shields.io/github/stars/weimingwill/awesome-federated-learning?style=social)
     - A curated list of research in federated learning.
   - [**[List] 联邦学习 Federated Learning**](https://github.com/ZeroWangZY/federated-learning) ![](https://img.shields.io/github/stars/ZeroWangZY/federated-learning?style=social)
-    - Everything about federated learning. 
+    - Everything about federated learning.
   - [**[List] Federated Learning**](https://github.com/lokinko/Federated-Learning) ![](https://img.shields.io/github/stars/lokinko/Federated-Learning?style=social)
     - Federated Learning Papers (grouped by topic).
 
@@ -813,7 +814,7 @@ Machine Learning Task & Application
   - [**[List] Awesome Federated Learning on Graph and GNN Papers**](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) ![](https://img.shields.io/github/stars/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers?style=social)
     - Federated learning on graph, especially on GNNs, knowledge graph, and private GNN.
   - [**[List] Awesome Deep Graph Representation Learning**](https://github.com/zlpure/awesome-graph-representation-learning) ![](https://img.shields.io/github/stars/zlpure/awesome-graph-representation-learning?style=social)
-    - A curated list for awesome deep graph representation learning resources. 
+    - A curated list for awesome deep graph representation learning resources.
   - [**[List] Graph4NLP Literature**](https://github.com/graph4ai/graph4nlp_literature) ![](https://img.shields.io/github/stars/graph4ai/graph4nlp_literature?style=social)
     - A list of literature regarding Deep Learning on Graphs for NLP.
   - [**[List] GNN4Traffic**](https://github.com/jwwthu/GNN4Traffic) ![](https://img.shields.io/github/stars/jwwthu/GNN4Traffic?style=social)
@@ -878,7 +879,7 @@ Machine Learning Task & Application
   - [**[List, Practice] awesome_time_series_in_python**](https://github.com/MaxBenChrist/awesome_time_series_in_python) ![](https://img.shields.io/github/stars/MaxBenChrist/awesome_time_series_in_python?style=social)
     - Python libraries, datasets, frameworks for time series processing.
   - [**[Datasets] Awesome time series database**](https://github.com/xephonhq/awesome-time-series-database) ![](https://img.shields.io/github/stars/xephonhq/awesome-time-series-database?style=social)
-    - A curated list of time series databases. 
+    - A curated list of time series databases.
   - [**[Library] FOST**](https://github.com/microsoft/FOST) ![](https://img.shields.io/github/stars/microsoft/FOST?style=social)
     - An easy-use tool for temporal, spatial-temporal and hierarchical forecasting.
 
@@ -939,7 +940,7 @@ Machine Learning Model
 - *Pretrained (NOT Foundation) Models*
   - [**[List, Model] Awesome Sentence Embedding**](https://github.com/Separius/awesome-sentence-embedding) ![](https://img.shields.io/github/stars/Separius/awesome-sentence-embedding?style=social)
     - A curated list of pretrained sentence and word embedding models.
-  
+
 ##### in CV (Visual Transformers, etc.)
 - *Foundation Models*
   - [**[List] Awesome Visual-Transformer**](https://github.com/dk-liang/Awesome-Visual-Transformer) ![](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social)
@@ -993,7 +994,7 @@ Machine Learning Model
   - [**[List] GNNPapers**](https://github.com/thunlp/GNNPapers) ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
     - Must-read papers on graph neural network.
   - [**[List] Graph-based Neural Networks**](https://github.com/sungyongs/graph-based-nn) ![](https://img.shields.io/github/stars/sungyongs/graph-based-nn?style=social)
-    - Important materials about graph-based neural networks and relational networks. 
+    - Important materials about graph-based neural networks and relational networks.
   - [**[List] Awesome GCN**](https://github.com/Jiakui/awesome-gcn) ![](https://img.shields.io/github/stars/Jiakui/awesome-gcn?style=social)
     - This repository is to collect GCN, GAT (graph attention) related resources.
   - [**[List] Graph Neural Network (GNN) progress**](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress) ![](https://img.shields.io/github/stars/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress?style=social)
@@ -1255,7 +1256,7 @@ Interdisciplinary: Machine Learning + X
   - Resources, methods, and tools dedicated to Legal Text Analytics.
 
 
-Machine Learning Datasets 
+Machine Learning Datasets
 -------------------------
 
 - [**[Datasets] Awesome Public Datasets**](https://github.com/awesomedata/awesome-public-datasets) ![](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=social)
@@ -1265,7 +1266,7 @@ Machine Learning Datasets
 - [**[Datasets] Awesome Dataset Tools**](https://github.com/jsbroks/awesome-dataset-tools) ![](https://img.shields.io/github/stars/jsbroks/awesome-dataset-tools?style=social)
   - A curated list of awesome dataset tools.
 - [**[Datasets] Awesome time series database**](https://github.com/xephonhq/awesome-time-series-database) ![](https://img.shields.io/github/stars/xephonhq/awesome-time-series-database?style=social)
-  - A curated list of time series databases. 
+  - A curated list of time series databases.
 - [**[Datasets] Awesome-Cybersecurity-Datasets**](https://github.com/shramos/Awesome-Cybersecurity-Datasets) ![](https://img.shields.io/github/stars/shramos/Awesome-Cybersecurity-Datasets?style=social)
   - A curated list of amazingly awesome Cybersecurity datasets.
 - [**[Datasets] Awesome Robotics Datasets**](https://github.com/mint-lab/awesome-robotics-datasets) ![](https://img.shields.io/github/stars/mint-lab/awesome-robotics-datasets?style=social)
@@ -1280,7 +1281,7 @@ Production Machine Learning
 #### Open-source Libraries
 
 - [**[List, Library] Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
-  - A curated list of awesome machine learning frameworks, libraries and software (by language). 
+  - A curated list of awesome machine learning frameworks, libraries and software (by language).
 - [**[List, Library] Awesome production machine learning**](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social)
   - This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning 🚀
 
@@ -1290,7 +1291,7 @@ Production Machine Learning
     - A curated list of awesome big data frameworks, resources and other awesomeness.
 
 
-<!-- 
+<!--
 Template
 - [**xxxxx**](xxxxx) ![](https://img.shields.io/github/stars/xxxxx?style=social)
   - xxxxx.
